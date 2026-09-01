@@ -1,0 +1,11 @@
+# 本项目为 MATLAB/Simulink 模型，无 Python 依赖。
+#
+# 运行环境要求：
+#   MATLAB R2015b 或更高
+#   Simulink
+#   Computer Vision System Toolbox
+#   Image Processing Toolbox
+#
+# traffic_light_controller.slx 额外需要：
+#   Simulink Support Package for Arduino Hardware
+#   硬件：Arduino 开发板
